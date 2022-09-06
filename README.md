@@ -2,6 +2,8 @@
 
 Carrot Market UI
 
+This is Flutter UI Book practice.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
