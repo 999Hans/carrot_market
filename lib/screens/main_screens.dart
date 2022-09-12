@@ -43,6 +43,8 @@ class _MainScreensState extends State<MainScreens> {
           });
         },
         currentIndex: _selectedIndex,
+        selectedItemColor: Colors.black,
+        unselectedItemColor: Colors.black54,
       ),
     );
   }
